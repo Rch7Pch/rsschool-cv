@@ -54,7 +54,7 @@ function isPalindrome(line) {
 #### Completed courses 🤓
 1. HTMLAcademy
 2. Udemy: React Native, React
-3.
+3. ItGid: React. Lite Level
 
 
 ### Languages ⚙️
