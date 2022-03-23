@@ -6,27 +6,24 @@
 
 a {
     text-decoration: none;
+    color: #000000;
+}
+
+li {
+    list-style: none;
 }
 
 h1, h2, h3, h4, h5 {
-    margin: 0;
-    padding: 0;
-}
-
-h5 {
     font-style: normal;
-    font-weight: 500;
-    font-size: 12px;
-    line-height: 15px;
     color: #000000;
+    margin: 0;
 }
 
 h1 {
-    font-style: normal;
     font-weight: 900;
     font-size: 288px;
     line-height: 351px;
-    color: #000000;
+    text-align:  center;
 }
 
 h1 span {
@@ -35,3 +32,56 @@ h1 span {
     line-height: 22px;
     color: #000000;
 }
+
+h2 {
+    font-weight: 800;
+    font-size: 144px;
+    line-height: 176px;
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+    color: #610000;
+}
+
+h5 {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.wrapper {
+    margin: 0 60px;
+}
+
+.header_wrapper {
+    margin-top: 28px;
+}
+
+.header_content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.promo_wrapper {
+    margin: 68px 0 60px 0;
+}
+
+.special_text {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 104px;
+    line-height: 127px;
+    color: #000000;
+}
+
+.social-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    color: #000000;
+}
+
