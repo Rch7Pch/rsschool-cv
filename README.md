@@ -1,3 +1,3 @@
 # rsschool-cv
 
->https://Rch7Pch.github.io/rsschool-cv/cv
+>https://Rch7Pch.github.io/rsschool-cv/
